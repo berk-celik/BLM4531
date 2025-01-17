@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "51840872513",
+    "project_id": "deneme-7daa0",
+    "storage_bucket": "deneme-7daa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51840872513:android:2a8b7291328ae9f40f16c0",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkpw7cAZ4zlxyEN2LLSQ9RpSy2XkzV68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51840872513:android:1136baa48484467e0f16c0",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkpw7cAZ4zlxyEN2LLSQ9RpSy2XkzV68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51840872513:android:fdf8d32db0a58fba0f16c0",
+        "android_client_info": {
+          "package_name": "recipe.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKkpw7cAZ4zlxyEN2LLSQ9RpSy2XkzV68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
